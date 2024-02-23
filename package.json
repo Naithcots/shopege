@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "client": "cd client && npm run dev",
-    "server": "cd server && npm run dev",
+    "client": "npm run dev --prefix shopege-client",
+    "server": "npm run dev --prefix shopege-server",
     "dev": "conc \"npm run client\" \"npm run server\""
   },
   "keywords": [],
