@@ -1,0 +1,6 @@
+[submodule "shopege-client"]
+	path = shopege-client
+	url = https://github.com/Naithcots/shopege-client
+[submodule "shopege-server"]
+	path = shopege-server
+	url = https://github.com/Naithcots/shopege-server
